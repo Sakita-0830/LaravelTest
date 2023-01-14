@@ -1,0 +1,14 @@
+Laravel入門テスト
+問題①
+①PHP
+②Model
+③View
+④Controller
+⑤ルーティング
+⑥GET
+⑦POST
+⑧PUT
+⑨レスポンス処理
+⑩Blade
+
+
